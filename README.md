@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-Me chamo Lívia. Sou Engenheira Química em transição para a Ciência de Dados. 
+Me chamo Lívia. Sou Engenheira Química em transição para a área de dados. 
 Descobri a paixão de trabalhar com dados durante meu trabalho de mestrado onde apliquei ferramentas de machine learning
 para solucionar problemas de negócios da indústria de bioenergia.
 Gosto muito também de análise e visualização de dados (me divirto buscando o melhor gráfico para apresentar uma análise 😅).
